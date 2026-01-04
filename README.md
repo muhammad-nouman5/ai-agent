@@ -1,5 +1,5 @@
 # What this Ai-agent can Do 
-# This Ai-agent will do automatically do
+# This Ai-agent will do automatically
 # Deep Reconnaissance 
 # Subdomain Enumeration
 # Scanning 
